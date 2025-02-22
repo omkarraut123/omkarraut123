@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omkar Raut
-- 👀 I’m interested in FullStack Web Developer
+- 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently Working in Tata Consultancy Services as a Front-End Developer..
 
 <!---
